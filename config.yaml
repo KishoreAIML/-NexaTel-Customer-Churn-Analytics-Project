@@ -1,0 +1,7 @@
+Project:
+  name: NexaTel Customer Churn Analytics
+
+Paths:
+  Raw_data: data/raw
+  Data: src/data
+  Db_connection: src/database
