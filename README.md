@@ -192,5 +192,5 @@ The project follows an end-to-end customer churn analytics workflow that transfo
 ### Dashboard Preview
 
 <p align="center">
-  <img src="reports/dashboard.png" alt="Power BI Dashboard" width="900">
+  <img src="reports/figures/dashboard.png" alt="Power BI Dashboard" width="900">
 </p>
