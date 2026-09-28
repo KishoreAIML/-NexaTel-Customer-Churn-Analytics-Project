@@ -10,7 +10,9 @@ The company's customer and operational data consists of approximately **757,000 
 
 Over the last four quarters, NexaTel's **blended monthly churn rate increased from 1.9% to 2.7%**, while the **cost of acquiring a new subscriber increased by 22%**. This creates a growing need to understand the drivers of customer churn, identify valuable customers at risk, quantify revenue loss, and improve customer retention.
 
----
+<p align="center">
+  <img src="reports/figures/nexatel.jpg" alt="Power BI Dashboard" width="900">
+</p>
 
 ## Business Problem Statement
 
