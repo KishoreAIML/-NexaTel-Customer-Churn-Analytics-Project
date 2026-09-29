@@ -10,3 +10,5 @@ with open(ROOT_DIR/"config.yaml", "r") as file:
 Raw_data = config["Paths"]["Raw_data"]
 Data = config["Paths"]["Data"]
 Db_connection = config["Paths"]["Db_connection"]
+Reports = config["Paths"]["Reports"]
+Figures = config["Paths"]["Figures"]

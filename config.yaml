@@ -5,3 +5,5 @@ Paths:
   Raw_data: data/raw
   Data: src/data
   Db_connection: src/database
+  Reports: reports
+  Figures: reports/figures
